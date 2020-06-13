@@ -23,16 +23,6 @@ body {
      font-size: 42px;
      color: white;
 }
- ol {
-     font-family: 'Amatic SC', cursive;
-     font-size: 42px;
-     color: white;
-}
- li {
-     font-family: 'Amatic SC', cursive;
-     font-size: 42px;
-     color: white;
-}
  .bottomleft {
      position: absolute;
      color: white;
